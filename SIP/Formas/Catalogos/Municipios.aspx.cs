@@ -20,6 +20,7 @@ namespace SIP.Formas.Catalogos
             if (!IsPostBack) 
             {
                 BindGrid();
+                //
             }
 
            
